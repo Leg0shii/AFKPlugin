@@ -1,0 +1,9 @@
+name: AFKPlugin_16
+version: ${project.version}
+main: de.legoshi.afkplugin_16.Main
+api-version: 1.16
+authors: [ Legoshi ]
+description: Afk Plugin zum tracken von Afkzeit
+
+commands:
+  afk:
